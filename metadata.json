@@ -1,0 +1,6 @@
+{
+  "name": "BloomFocus - สวนดอกไม้สร้างสมาธิและเพื่อนคู่คิด AI",
+  "description": "ระบบจัดการเวลา ย่อยงานด้วย AI เพื่อนคู่คิด Focus Mode สวนดอกไม้จำลองให้รางวัลโดปามีน และรายงานวิเคราะห์สมาธิและอารมณ์สำหรับเด็กสมาธิสั้นและผู้ปกครอง",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
